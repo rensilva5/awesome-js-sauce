@@ -1,2 +1,2 @@
-# awesome-js-sauce
-An awesome framework for making crap websites
+# awesome-js
+An awesome framework for making websites
